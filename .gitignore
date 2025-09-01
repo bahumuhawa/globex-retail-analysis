@@ -1,0 +1,28 @@
+# --- VS Code ---
+.vscode/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- Virtual Environment ---
+venv/
+.env/
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- System files ---
+.DS_Store
+Thumbs.db
+
+# --- Data files (optional) ---
+globex_data.pdf
+globex_data.csv
+
+# --- Logs & temp files ---
+*.log
+*.tmp
