@@ -12,7 +12,7 @@ The goal is to:
 ## 📊 Visualizations
 
 ### Revenue by Product Category
-![Revenue by Category](images/revenue_by_category.png)
+![Revenue by Category](revenue_by_category.png)
 
 ---
 
